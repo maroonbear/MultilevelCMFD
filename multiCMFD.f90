@@ -6,4 +6,5 @@
 
 
    WRITE(*,*)"hello multiCMFD"
+   WRITE(*,*)"Hey, how are you doing, guys?"
  ENDPROGRAM multiCMFD
