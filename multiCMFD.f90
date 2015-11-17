@@ -6,5 +6,6 @@
 
 
 
+
    WRITE(*,*)"hello multiCMFD"
  ENDPROGRAM multiCMFD
