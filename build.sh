@@ -1,0 +1,1 @@
+gfortran  CoarseMesh.f90 CMFD_Sweeper.f90 main.f90 -o main.exe
